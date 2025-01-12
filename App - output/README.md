@@ -4,7 +4,7 @@
 **Specification and Requirements:**
 
 * Folder size: 14.8MB
-* Internet access for API calls
+* Internet access for API calls (TriviaDB)
 
 **Operating System:**
 Minimum: Windows 7 / macOS 10.13 / Ubuntu 18.04 or later.
@@ -58,4 +58,4 @@ Minimum: 500 MB of free disk space (for Python, libraries, and assets like video
 * import sys: For restarting the script with the same Python interpreter.
 
 # Thank you for the time to downoad and access my summative assessment!
-- Adrian Garcia
+Created by Adrian Garcia
