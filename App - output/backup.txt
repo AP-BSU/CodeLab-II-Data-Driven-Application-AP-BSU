@@ -1,0 +1,29 @@
+What is the capital city of Australia?,Canberra,Sydney,Melbourne,Brisbane
+Who wrote the novel '1984'?,George Orwell,Aldous Huxley,Ray Bradbury,J.D. Salinger
+What is the chemical symbol for Gold?,Au,Ag,Pb,Fe
+In which year did the Titanic sink?,1912,1905,1915,1920
+Who painted the Mona Lisa?,Leonardo da Vinci,Michelangelo,Vincent van Gogh,Pablo Picasso
+What is the largest planet in our solar system?,Jupiter,Saturn,Neptune,Earth
+Who is known as the 'Father of Computers'?,Charles Babbage,Alan Turing,John von Neumann,Blaise Pascal
+What is the hardest natural substance on Earth?,Diamond,Quartz,Corundum,Topaz
+In which city is the Colosseum located?,Rome,Athens,Istanbul,Paris
+Who discovered penicillin?,Alexander Fleming,Louis Pasteur,Robert Koch,Joseph Lister
+What is the smallest country in the world?,Vatican City,Monaco,San Marino,Liechtenstein
+Who developed the theory of relativity?,Albert Einstein,Isaac Newton,Niels Bohr,Galileo Galilei
+What is the main ingredient in traditional Japanese miso soup?,Fermented soybean paste,Seaweed,Tofu,Fish stock
+Which planet is known as the Red Planet?,Mars,Venus,Jupiter,Mercury
+Who wrote the play 'Romeo and Juliet'?,William Shakespeare,Christopher Marlowe,John Webster,Ben Jonson
+What is the tallest mountain in the world?,Mount Everest,K2,Kangchenjunga,Lhotse
+In which year did World War II end?,1945,1944,1946,1947
+What is the currency of Japan?,Yen,Won,Yuan,Ringgit
+Who is the author of the Harry Potter series?,J.K. Rowling,J.R.R. Tolkien,C.S. Lewis,Philip Pullman
+What is the largest ocean on Earth?,Pacific Ocean,Atlantic Ocean,Indian Ocean,Southern Ocean
+Who painted 'The Starry Night'?,Vincent van Gogh,Claude Monet,Paul Cézanne,Edgar Degas
+What is the capital of Canada?,Ottawa,Toronto,Vancouver,Montreal
+Who invented the telephone?,Alexander Graham Bell,Thomas Edison,Nikola Tesla,Guglielmo Marconi
+What is the chemical symbol for water?,H₂O,HO,H₂,O₂
+In which year did the Berlin Wall fall?,1989,1987,1990,1991
+Who wrote 'Pride and Prejudice'?,Jane Austen,Emily Brontë,Mary Shelley,Louisa May Alcott
+What is the largest desert in the world?,Sahara Desert,Arabian Desert,Gobi Desert,Kalahari Desert
+Who is known as the 'King of Pop'?,Michael Jackson,Elvis Presley,Prince,Freddie Mercury
+What is the capital city of Spain?,Madrid,Barcelona,Valencia,Seville
